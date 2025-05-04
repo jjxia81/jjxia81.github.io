@@ -26,10 +26,10 @@ I earned my MS in Computer Science in Machine Learning from Gatech in 2024, ME i
 My research interest includes 3D reconstruction, 3D computer vision and machine learning.
 
 
-
+{% 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
 # 📝 Publications 
 
@@ -47,17 +47,21 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 - [Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - (now)*, Ph.D. in Computer Science, Washington University in St. Louis. 
+- *2022.08 - 2024.05*, MS in Computer Science, Georgia Institute of Technology. 
+- *2025.08 - 2018.07*, ME in Engineering, Tsinghua University.
+- *2011.08 - 2015.07*, BE in Engineering, University of Science and Technology Beijing.
+
 
 # 💬 Invited Talks
 - *2021.06*, Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2018-2019*, Huawei, China.
+- *2019-2022*, Sense Time, China.
