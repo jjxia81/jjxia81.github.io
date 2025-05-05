@@ -48,7 +48,7 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 
 # 💬 Invited Talks
-- *2021.06*, Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*, [Implicit Surface Reconstruction](https://threedle.github.io/great-lakes-graphics/#Video) at Great Lakes Graphics Workshop . 
 
 
 # 💻 Work Experience
