@@ -21,7 +21,7 @@ I am currently a Ph.D candidate in Computer Science at
 <a href="https://cse.wustl.edu/Pages/default.aspx" target="_blank" rel="noopener">CSE, Washington University in St. Louis</a>,  under the supervision of 
 <a href="https://www.cse.wustl.edu/~taoju/" target="_blank" rel="noopener">Prof. Tao Ju</a>. 
 
-I earned my MS in Computer Science in Machine Learning from Gatech in 2024, ME in Engineering from Tsinghua University in 2018. I worked at SenceTime during 2019-2022. Please Check my [CV](https://github.com/jjxia81/jjxia81.github.io/blob/main/docs/cv.pdf). 
+I earned my MS in Computer Science in Machine Learning from Gatech in 2024, ME in Engineering from Tsinghua University in 2018. Please Check my [CV](https://github.com/jjxia81/jjxia81.github.io/blob/main/docs/cv.pdf). 
 
 My research interest includes 3D reconstruction, 3D computer vision and machine learning.
 
