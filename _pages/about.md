@@ -36,7 +36,7 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 **Jianjun Xia**, Tao Ju 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Project**](https://jjxia81.github.io/NN-VIPSS-Project/) 
 [**Code**](https://github.com/jjxia81/NN-VIPSS)
 </div>
 </div>
