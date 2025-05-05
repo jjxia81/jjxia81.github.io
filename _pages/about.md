@@ -53,4 +53,5 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 # 💻 Work Experience
 - *2018-2019*, Huawei, China.
-- *2019-2022*, SenseTime, China.
+- *2019-2021*, SenseTime, China.
+- *2021-2022*, Tencent, China.
