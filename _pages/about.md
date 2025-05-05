@@ -36,11 +36,10 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Variational Surface Reconstruction Using Natural Neighbors. 
 </div>
 </div>
 
-- [Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 # 📖 Educations
@@ -52,8 +51,8 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 # 💬 Invited Talks
 - *2021.06*, Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Jianjun Xia dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Work Experience
 - *2018-2019*, Huawei, China.
-- *2019-2022*, Sense Time, China.
+- *2019-2022*, SenseTime, China.
