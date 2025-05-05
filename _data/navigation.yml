@@ -19,4 +19,7 @@ main:
   #   url: "/#-invited-talks"
 
   - title: "Work Experience"
-    url: "/#-work experience"
+    url: "/#-work-experience"
+
+  - title: "CV"
+    url: "/#-cv"
