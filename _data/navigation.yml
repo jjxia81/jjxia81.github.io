@@ -22,4 +22,4 @@ main:
     url: "/#-work-experience"
 
   - title: "CV"
-    url: "/#-cv"
+    url: "/docs/cv.pdf"
