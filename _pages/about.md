@@ -47,7 +47,7 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 # 📖 Educations
 - *2024.08 - (now)*, Ph.D. in Computer Science, Washington University in St. Louis. 
 - *2022.08 - 2024.05*, MS in Computer Science, Georgia Institute of Technology. 
-- *2025.08 - 2018.07*, ME in Engineering, Tsinghua University.
+- *2015.08 - 2018.07*, ME in Engineering, Tsinghua University.
 - *2011.08 - 2015.07*, BE in Engineering, University of Science and Technology Beijing.
 
 
