@@ -32,7 +32,7 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/helmet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Variational Surface Reconstruction Using Natural Neighbors](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Variational Surface Reconstruction Using Natural Neighbors](https://jjxia81.github.io/NN-VIPSS-Project/static/pdfs/Fast_VIPSS.pdf)
 
 **Jianjun Xia**, Tao Ju 
 
