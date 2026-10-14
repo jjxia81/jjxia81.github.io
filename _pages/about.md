@@ -55,6 +55,20 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 </div>
 </div>
 
+# Earlier Publications
+
+[The methodology of UAV route planning for efficient 3D reconstruction of building model](https://ieeexplore.ieee.org/abstract/document/8090905)<br>
+Xiaocui Zheng, Fei Wang, **Jianjun Xia**, Xiaopeng Gong<br>
+*2017 25th International Conference on Geoinformatics*
+
+[GIS based dynamic modeling of fire spread with cellular automation model](https://ieeexplore.ieee.org/abstract/document/8090916)<br>
+Zhanghua Li, Fei Wang, Xiaocui Zheng, **Jianjun Xia**<br>
+*2017 25th International Conference on Geoinformatics*
+
+[A novel approach for building extraction from 3D disaster scenes of urban area](https://ieeexplore.ieee.org/abstract/document/8090918)<br>
+**Jianjun Xia**, Fei Wang, Xiaocui Zheng, Zhanghua Li, Xiaopeng Gong<br>
+*2017 25th International Conference on Geoinformatics*
+
 
 
 
