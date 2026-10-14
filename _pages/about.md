@@ -41,6 +41,20 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://jjxia81.github.io/CSGSweepWeb/images/fig-overview.png' alt="CSG Sweeps method overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CSG Sweeps: Feature-aware sweep surfacing of deformable CSGs](https://jjxia81.github.io/CSGSweepWeb/static/pdfs/csg_sweep.pdf)
+
+**Jianjun Xia**, Qingnan Zhou, Yiwen Ju, Xingyi Du, Nathan Carr, Tao Ju
+
+*ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2026)*
+
+[**Project**](https://jjxia81.github.io/CSGSweepWeb/)
+[**Code**](https://github.com/jjxia81/Swept-Volume-CSG)
+</div>
+</div>
+
 
 
 
@@ -49,10 +63,6 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 - *2022.08 - 2024.05*, MS in Computer Science, Georgia Institute of Technology. 
 - *2015.08 - 2018.07*, ME in Engineering, Tsinghua University.
 - *2011.08 - 2015.07*, BE in Engineering, University of Science and Technology Beijing.
-
-
-# 💻 Projects
-- [CSG Sweep](https://jjxia81.github.io/CSGSweepWeb/)
 
 
 # 💬 Invited Talks
