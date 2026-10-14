@@ -48,7 +48,7 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 **Jianjun Xia**, Qingnan Zhou, Yiwen Ju, Xingyi Du, Nathan Carr, Tao Ju
 
-*ACM Transactions on Graphics (2026)*
+*ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2026)*
 
 [**Project**](https://jjxia81.github.io/CSGSweepWeb/)
 [**Code**](https://github.com/jjxia81/Swept-Volume-CSG)
