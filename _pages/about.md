@@ -51,6 +51,10 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 - *2011.08 - 2015.07*, BE in Engineering, University of Science and Technology Beijing.
 
 
+# 💻 Projects
+- [CSG Sweep](https://jjxia81.github.io/CSGSweepWeb/)
+
+
 # 💬 Invited Talks
 - *2025.04*, [Implicit Surface Reconstruction](https://threedle.github.io/great-lakes-graphics/#Video) at Great Lakes Graphics Workshop . 
 
