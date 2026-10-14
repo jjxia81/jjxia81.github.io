@@ -41,7 +41,7 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='https://jjxia81.github.io/CSGSweepWeb/images/fig-overview.png' alt="CSG Sweeps method overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://jjxia81.github.io/CSGSweepWeb/images/fig-compare.png' alt="CSG Sweeps method comparison" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CSG Sweeps: Feature-aware sweep surfacing of deformable CSGs](https://jjxia81.github.io/CSGSweepWeb/static/pdfs/csg_sweep.pdf)
