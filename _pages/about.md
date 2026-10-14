@@ -29,18 +29,6 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025 Best Paper Honorable Mention</div><img src='images/helmet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Variational Surface Reconstruction Using Natural Neighbors](https://jjxia81.github.io/NN-VIPSS-Project/static/pdfs/Fast_VIPSS.pdf)
-
-**Jianjun Xia**, Tao Ju 
-
-[**Project**](https://jjxia81.github.io/NN-VIPSS-Project/) 
-[**Code**](https://github.com/jjxia81/NN-VIPSS)
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='https://jjxia81.github.io/CSGSweepWeb/images/fig-compare.png' alt="CSG Sweeps method comparison" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,6 +40,20 @@ My research interest includes 3D reconstruction, 3D computer vision and machine 
 
 [**Project**](https://jjxia81.github.io/CSGSweepWeb/)
 [**Code**](https://github.com/jjxia81/Swept-Volume-CSG)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025 Best Paper Honorable Mention</div><img src='images/helmet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Variational Surface Reconstruction Using Natural Neighbors](https://jjxia81.github.io/NN-VIPSS-Project/static/pdfs/Fast_VIPSS.pdf)
+
+**Jianjun Xia**, Tao Ju
+
+*ACM Transactions on Graphics (Proc. SIGGRAPH 2025)*
+
+[**Project**](https://jjxia81.github.io/NN-VIPSS-Project/)
+[**Code**](https://github.com/jjxia81/NN-VIPSS)
 </div>
 </div>
 
