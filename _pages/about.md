@@ -86,6 +86,6 @@ Zhanghua Li, Fei Wang, Xiaocui Zheng, **Jianjun Xia**<br>
 
 
 # 💻 Work Experience
-- *2018-2019*, Huawei, China.
-- *2019-2021*, SenseTime, China.
 - *2021-2022*, Tencent, China.
+- *2019-2021*, SenseTime, China.
+- *2018-2019*, Huawei, China.
